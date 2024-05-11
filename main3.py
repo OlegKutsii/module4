@@ -1,5 +1,5 @@
 from pathlib import Path
-
+from colorama import Fore
 # Створення об'єкту Path для директорії
 directory = Path(__file__).parent
 
